@@ -1,0 +1,12 @@
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\bin\Debug\netcoreapp2.0\VSWebApp.deps.json
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\bin\Debug\netcoreapp2.0\VSWebApp.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\bin\Debug\netcoreapp2.0\VSWebApp.runtimeconfig.dev.json
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\bin\Debug\netcoreapp2.0\VSWebApp.dll
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\bin\Debug\netcoreapp2.0\VSWebApp.pdb
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\obj\Debug\netcoreapp2.0\VSWebApp.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\obj\Debug\netcoreapp2.0\VSWebApp.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\obj\Debug\netcoreapp2.0\VSWebApp.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\obj\Debug\netcoreapp2.0\VSWebApp.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\obj\Debug\netcoreapp2.0\VSWebApp.dll
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\obj\Debug\netcoreapp2.0\VSWebApp.pdb

@@ -1,0 +1,35 @@
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\bin\Debug\netcoreapp2.1\VSWebApp.deps.json
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\bin\Debug\netcoreapp2.1\VSWebApp.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\bin\Debug\netcoreapp2.1\VSWebApp.runtimeconfig.dev.json
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\bin\Debug\netcoreapp2.1\VSWebApp.dll
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\bin\Debug\netcoreapp2.1\VSWebApp.pdb
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\obj\Debug\netcoreapp2.1\BingImageSearch.Web.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\obj\Debug\netcoreapp2.1\BingImageSearch.Web.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\obj\Debug\netcoreapp2.1\BingImageSearch.Web.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\obj\Debug\netcoreapp2.1\BingImageSearch.Web.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\obj\Debug\netcoreapp2.1\VSWebApp.dll
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\VSWebApp\obj\Debug\netcoreapp2.1\VSWebApp.pdb
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\BingImageSearch\bin\Debug\netcoreapp2.1\BingImageSearch.deps.json
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\BingImageSearch\bin\Debug\netcoreapp2.1\BingImageSearch.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\BingImageSearch\bin\Debug\netcoreapp2.1\BingImageSearch.runtimeconfig.dev.json
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\BingImageSearch\bin\Debug\netcoreapp2.1\BingImageSearch.dll
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\BingImageSearch\bin\Debug\netcoreapp2.1\BingImageSearch.pdb
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\BingImageSearch\obj\Debug\netcoreapp2.1\BingImageSearch.Web.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\BingImageSearch\obj\Debug\netcoreapp2.1\BingImageSearch.Web.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\BingImageSearch\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\BingImageSearch\obj\Debug\netcoreapp2.1\BingImageSearch.Web.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\BingImageSearch\obj\Debug\netcoreapp2.1\BingImageSearch.Web.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\BingImageSearch\obj\Debug\netcoreapp2.1\BingImageSearch.dll
+C:\Users\dmitr\OneDrive\Документы\bing-visualsearch-tools\src\BingImageSearch\obj\Debug\netcoreapp2.1\BingImageSearch.pdb
+C:\Users\dmitr\OneDrive\Документы\Для работы\Bing Image Search\BingImageSearch\bin\Debug\netcoreapp2.1\BingImageSearch.deps.json
+C:\Users\dmitr\OneDrive\Документы\Для работы\Bing Image Search\BingImageSearch\bin\Debug\netcoreapp2.1\BingImageSearch.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Документы\Для работы\Bing Image Search\BingImageSearch\bin\Debug\netcoreapp2.1\BingImageSearch.runtimeconfig.dev.json
+C:\Users\dmitr\OneDrive\Документы\Для работы\Bing Image Search\BingImageSearch\bin\Debug\netcoreapp2.1\BingImageSearch.dll
+C:\Users\dmitr\OneDrive\Документы\Для работы\Bing Image Search\BingImageSearch\bin\Debug\netcoreapp2.1\BingImageSearch.pdb
+C:\Users\dmitr\OneDrive\Документы\Для работы\Bing Image Search\BingImageSearch\obj\Debug\netcoreapp2.1\BingImageSearch.Web.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\OneDrive\Документы\Для работы\Bing Image Search\BingImageSearch\obj\Debug\netcoreapp2.1\BingImageSearch.Web.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Документы\Для работы\Bing Image Search\BingImageSearch\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Документы\Для работы\Bing Image Search\BingImageSearch\obj\Debug\netcoreapp2.1\BingImageSearch.Web.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Документы\Для работы\Bing Image Search\BingImageSearch\obj\Debug\netcoreapp2.1\BingImageSearch.Web.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Документы\Для работы\Bing Image Search\BingImageSearch\obj\Debug\netcoreapp2.1\BingImageSearch.dll
+C:\Users\dmitr\OneDrive\Документы\Для работы\Bing Image Search\BingImageSearch\obj\Debug\netcoreapp2.1\BingImageSearch.pdb
